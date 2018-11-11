@@ -1,4 +1,4 @@
-package pl.coderslab.game4;
+package pl.coderslab.Workshop1;
 
 import java.util.Random;
 import java.util.StringTokenizer;

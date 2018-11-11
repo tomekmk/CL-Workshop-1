@@ -1,4 +1,4 @@
-package pl.coderslab.game2;
+package pl.coderslab.Workshop1;
 
 import java.util.Arrays;
 import java.util.Random;
